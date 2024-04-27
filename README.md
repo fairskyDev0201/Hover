@@ -12,8 +12,6 @@ A collection of CSS3 powered hover effects to be applied to links, buttons, logo
 - [How To Use](#how-to-use)
     - [A. Copy and Paste an Effect](#a-copy-and-paste-an-effect)
     - [B. Reference Hover.css](#b-reference-hovercss)
-    - [A Note on the display property](#a-note-on-the-display-property)
-    - [Using Icon Effects](#using-icon-effects)
 - [What's Included?](#whats-included)
     - [css](#css)
     - [scss/less](#scssless)
